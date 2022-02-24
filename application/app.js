@@ -14,7 +14,7 @@ db.once('open',()=>{
 
 // Inside a schema we define the kind of data we want to insert in our database and which is required from the client
 
-// Schema is a structure supported by the DBMS coming from the DBMS background
+// Schema is a structure of data we want to insert in our database
 
 // Here Schema is like a shape of document/object we want to store inside the database
 
